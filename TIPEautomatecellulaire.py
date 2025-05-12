@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random as r
 """
+Ici contaminé=alerté
 Contamination direct: une personne contaminé collé à un autre non contaminé le devient instantanement
 Contamination pseudo-direct: si une personne bloc le chemin d'une personne contaminé alors il le devient
 Vitesse: donner un coefficient de vitesse au point leur faisant avancé plusieurs cases en même temps (qui dépende du nombre de voisin, de l'inertie...)
