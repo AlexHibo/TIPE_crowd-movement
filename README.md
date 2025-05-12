@@ -8,3 +8,9 @@ Using :
 - granular model
 - cellular automata
 - practical experience
+
+The project includes: 
+
+- A midterm report .
+- A presentation used during the final oral defense.
+- A technical implementation with source code.
