@@ -6,11 +6,11 @@ Understand the theory of crowd movements to highlight the 'slower is faster' eff
 
 Using :
 - granular model
-- cellular automata
+- cellular automaton
 - practical experience
 
 The project includes: 
 
-- A midterm report .
+- A midterm report.
 - A presentation used during the final oral defense.
 - A technical implementation with source code.
